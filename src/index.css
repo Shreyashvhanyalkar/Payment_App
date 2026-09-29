@@ -1,0 +1,11 @@
+/* frontend/src/index.css */
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Rubik", system-ui, sans-serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
